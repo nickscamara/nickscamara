@@ -37,7 +37,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://hallhub.app"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://hallhub.app"><img src="https://img.shields.io/badge/-hallhub.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nicolas-silberstein-camara"><img src="https://img.shields.io/badge/-Nick-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nicolascamara29@gmail.com"><img src="https://img.shields.io/badge/-nicolascamara29@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
