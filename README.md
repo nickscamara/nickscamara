@@ -16,7 +16,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -33,17 +32,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Adobe XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
-  ![After Effects](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-after-effects)
-  
-
-
-<p align="center">
-<a href="https://github.com/nickscamara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickscamara&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickscamara&theme=vue&layout=compact" />
-</a>
-</p>
-
+  ![After Effects](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-after-effects) 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
