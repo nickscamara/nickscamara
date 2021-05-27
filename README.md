@@ -3,8 +3,8 @@
 <h3> 😁 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing mobile apps with Flutter.
-- 🎓 &nbsp; Studying Computer Science at the University of New Hampshire.
-- 💼 &nbsp; Co-Founder of HallHub and SPAITR & Intern for UNH ECenter.
+- 🎓 &nbsp; Graduated Cum Laude in Computer Science at the University of New Hampshire.
+- 💼 &nbsp; Co-Founder of HallHub and SPAITR.
 - 🌱 &nbsp; Learning more about Flutter, Python and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing UI/UX Design as a hobby.
 
