@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing mobile apps with Flutter.
 - 🎓 &nbsp; Graduated Cum Laude in Computer Science at the University of New Hampshire.
-- 💼 &nbsp; Co-Founder of SideGuide™, FlutterBricks.
+- 💼 &nbsp; Co-Founder of SideGuide, FlutterBricks.
 - 🌱 &nbsp; Love Flutter & Next.js
 - ✍️ &nbsp; Pursuing UI/UX Design as a hobby.
 
