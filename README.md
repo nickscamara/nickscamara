@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing mobile apps with Flutter.
 - 🎓 &nbsp; Graduated Cum Laude in Computer Science at the University of New Hampshire.
-- 💼 &nbsp; Co-Founder of HallHub and SPAITR.
-- 🌱 &nbsp; Learning more about Flutter, Python and Artificial Intelligence.
+- 💼 &nbsp; Co-Founder of SideGuide™, FlutterBricks.
+- 🌱 &nbsp; Love Flutter & Next.js
 - ✍️ &nbsp; Pursuing UI/UX Design as a hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
