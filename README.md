@@ -1,7 +1,6 @@
 <h2> Hey there! I'm Nick.</h2>
 
 <h3> 😁 &nbsp;About Me </h3>
-Helping 48k+ people learn how to code 
 
 - 📱 &nbsp; Exploring new technologies and developing mobile apps with Flutter.
 - 💼 &nbsp; Co-Founder of SideGuide, FlutterBricks. Creator of @flutterguide instagram.
