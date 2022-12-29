@@ -3,7 +3,7 @@
 <h3> 😁 &nbsp;About Me </h3>
 
 - 📱 &nbsp; Exploring new technologies and developing mobile apps with Flutter.
-- 💼 &nbsp; Co-Founder of SideGuide, FlutterBricks. Creator of @flutterguide instagram.
+- 💼 &nbsp; Co-Founder of SideGuide (YC S22), FlutterBricks, HallHub. Creator of @flutterguide instagram.
 - 🌱 &nbsp; Love Flutter & Next.js
 - ✍️ &nbsp; Pursuing UI/UX Design as a hobby.
 - 🎓 &nbsp; Graduated Cum Laude in Computer Science at the University of New Hampshire.
