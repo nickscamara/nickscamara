@@ -1,5 +1,6 @@
 <h3> Hey there! I'm Nick.</h3>
 
+- Building mendable.ai
 - Co-Founder of SideGuide (YC S22), FlutterBricks, HallHub. Creator of @flutterguide instagram.
 - Currently working on pushing LLM's to their maximum, through composition and external integrations.
 
