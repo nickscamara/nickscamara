@@ -1,7 +1,9 @@
 <h3> Hey there! I'm Nick.</h3>
 
-- Building [mendable.ai](https://mendable.ai)
-- Co-Founder of SideGuide (YC S22), FlutterBricks, HallHub. Creator of [@flutterguide](https://instagram.com/flutterguide).
+- Building [mendable.ai](https://mendable.ai) and [firecrawl](https://firecrawl.dev)
+- Co-Founder @ Mendable.ai (YC S22)
+- Built [SideGuide](https://courses.sideguide.dev) (YC S22), FlutterBricks, HallHub.
+- Creator of [@flutterguide](https://instagram.com/flutterguide).
 - Currently working on pushing LLM's to their maximum, through composition and external integrations.
 
 <h4> 🤝🏻 &nbsp;Connect with Me </h4>
