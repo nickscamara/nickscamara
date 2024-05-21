@@ -2,7 +2,7 @@
 
 - Building [mendable.ai](https://mendable.ai) and [firecrawl.dev](https://firecrawl.dev)
 - Co-Founder @ Mendable (YC S22)
-- Built [SideGuide VS Code Platform](https://courses.sideguide.dev) (YC S22), [FlutterBricks](https://flutterbricks.com), [HallHub](https://apps.apple.com/us/app/hallhub/id1526733177).
+- Built [SideGuide](https://courses.sideguide.dev) (YC S22), [FlutterBricks](https://flutterbricks.com), [HallHub](https://apps.apple.com/us/app/hallhub/id1526733177).
 - Creator of [@flutterguide](https://instagram.com/flutterguide).
 - Currently working on pushing LLM's to their maximum, through composition and external integrations.
 
