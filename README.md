@@ -1,7 +1,7 @@
 <h3> Hey there! I'm Nick.</h3>
 
-- Building [firecrawl.dev](https://firecrawl.dev). Co-founder @ [mendable.ai](https://mendable.ai) (YC S22)
-- Previously built [SideGuide](https://courses.sideguide.dev) (YC S22), [FlutterBricks](https://flutterbricks.com), [HallHub](https://apps.apple.com/us/app/hallhub/id1526733177).
+- Founder @ [firecrawl.dev](https://firecrawl.dev) (YC S22)
+- Previously built [Mendable](https://mendable.ai), [SideGuide](https://courses.sideguide.dev), [FlutterBricks](https://flutterbricks.com), [HallHub](https://apps.apple.com/us/app/hallhub/id1526733177).
 - Creator of [@flutterguide](https://instagram.com/flutterguide) community | 50k developers.
 - Currently working on pushing LLM's to their maximum, through composition and external integrations.
 
